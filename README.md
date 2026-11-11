@@ -22,7 +22,9 @@ What it does
 
 How to run
 
-[python todo_list.py](./03_todo_list.py)
+```bash
+python 03_todo_list.py
+```
 
 About this project
 
